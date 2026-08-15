@@ -1,263 +1,300 @@
-<!--
-╔══════════════════════════════════════════════════════════════════╗
-║                    EDUARDO ARRUDA // SYSTEM                     ║
-║              SOFTWARE ENGINEER • BACKEND • CLOUD                ║
-╚══════════════════════════════════════════════════════════════════╝
--->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+
+<!--                    DUDU // SYSTEM ONLINE                    -->
+
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f1f,100:00e5ff&height=180&section=header&text=EDUARDO%20ARRUDA&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20CLOUD&descAlignY=58&descSize=16&animation=twinkling"/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E+Initializing+EduardoOS...;%3E+Backend+Engineer+in+progress...;%3E+Building+scalable+systems...;%3E+Java+%2B+Spring+Boot+%2B+AWS;%3E+Cloud+%7C+DevOps+%7C+Software+Engineering;%3E+System+status%3A+ONLINE"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f5ff&height=220&section=header&text=DUDU-DEV-FULLSTACK&fontSize=42&fontColor=00F5FF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
 <br>
-<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=SYSTEM%20ACCESS&color=00e5ff&style=for-the-badge" alt="Profile views"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+SYSTEM...;%3E+JAVA+%2B+SPRING+BOOT+%7C+BACKEND+ENGINEER;%3E+BUILDING+SCALABLE+SYSTEMS...;%3E+CLOUD+%7C+DOCKER+%7C+KUBERNETES+%7C+AWS;%3E+WELCOME+TO+MY+DIGITAL+LAB." alt="Typing Animation"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=dudu-dev-fullstack&style=for-the-badge&color=00f5ff&label=SYSTEM+VISITS"/>
+
 </div>
 
-⸻
+---
 
-> SYSTEM.INIT()
+## `01 // SYSTEM STATUS`
 
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│                  E D U A R D O   O S                         │
+│                  DUDU.DEV // ONLINE                         │
 ├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  STATUS       : ONLINE                                       │
-│  ROLE         : SOFTWARE ENGINEER                            │
-│  SPECIALTY    : BACKEND / CLOUD / DEVOPS                     │
-│  PRIMARY LANG  : JAVA                                        │
-│  FRAMEWORK    : SPRING BOOT                                  │
-│  CLOUD        : AWS                                          │
-│  CONTAINER    : DOCKER                                       │
-│  ORCHESTRATOR : KUBERNETES                                   │
-│  DATABASE     : POSTGRESQL                                   │
-│                                                              │
-│  CURRENT MISSION: BUILD → LEARN → SHIP → SCALE               │
-│                                                              │
+│ STATUS        : ONLINE                                       │
+│ ROLE          : SOFTWARE ENGINEER                           │
+│ SPECIALTY     : BACKEND / FULL STACK                        │
+│ PRIMARY       : JAVA + SPRING BOOT                           │
+│ CLOUD         : AWS                                          │
+│ INFRA         : DOCKER + KUBERNETES                          │
+│ DATABASE      : POSTGRESQL                                   │
+│ ENVIRONMENT   : LINUX / GIT / GITHUB                         │
+│ MISSION       : BUILD → SCALE → AUTOMATE → INNOVATE         │
 └──────────────────────────────────────────────────────────────┘
+```
 
-> ABOUT_ME.exe
+# `> Sobre Mim`
+
+Olá! Eu sou **Eduardo**, desenvolvedor focado em construir aplicações modernas, escaláveis e bem estruturadas.
+
+Minha principal stack está concentrada no ecossistema **Java + Spring Boot**, com experiência e estudos voltados para bancos de dados, containers, cloud computing e desenvolvimento Full Stack.
+
+Gosto de transformar problemas reais em soluções através de código, arquitetura de software e automação.
+
+```java
+public class Developer {
+
+    String name = "Eduardo";
+    String username = "dudu-dev-fullstack";
+
+    String[] focus = {
+        "Backend Engineering",
+        "Full Stack Development",
+        "Cloud Computing",
+        "Software Architecture"
+    };
+
+    String[] mindset = {
+        "Learn",
+        "Build",
+        "Improve",
+        "Scale"
+    };
+}
+```
+
+---
+
+# `02 // TECH STACK`
 
 <div align="center">
 
-👨‍💻 Software Engineering Student | Backend Developer
+### `BACKEND`
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,spring" />
 
-I’m Eduardo Arruda, a Software Engineering student focused on becoming a strong Backend Engineer, building scalable applications and understanding the infrastructure behind modern software.
+### `DATABASE`
 
-My current ecosystem revolves around:
+<img src="https://skillicons.dev/icons?i=postgres" />
 
-* ☕ Java & Spring Boot
-* 🗄️ PostgreSQL
-* 🐳 Docker
-* ☁️ AWS
-* ☸️ Kubernetes
-* 🌐 JavaScript, HTML & CSS
-* 🔧 Software Engineering & DevOps practices
-
-I enjoy turning ideas into real systems, learning how applications communicate with infrastructure, and continuously improving my engineering fundamentals.
-
-“Don’t just write code. Build systems.”
-
-⸻
-
-> TECH_STACK
-
-<div align="center">
-
-☕ Backend
-
-<img src="https://skillicons.dev/icons?i=java,spring,postgres" />
-
-☁️ Cloud & Infrastructure
+### `CLOUD & DEVOPS`
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
 
-🌐 Frontend
+### `FRONTEND`
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-🛠️ Development Tools
+### `TOOLS`
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,maven,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
+
 </div>
 
-⸻
+---
 
-> TOOLKIT
+# `03 // CORE TECHNOLOGIES`
 
-╭────────────────────────────────────────────────────────────╮
-│                    DEVELOPMENT TOOLKIT                     │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  CODE       → Java • JavaScript • HTML • CSS               │
-│  BACKEND    → Spring Boot                                 │
-│  DATABASE   → PostgreSQL                                  │
-│  CLOUD      → AWS                                         │
-│  CONTAINER  → Docker                                      │
-│  ORCHESTR.  → Kubernetes                                  │
-│  VCS        → Git • GitHub                                │
-│  IDE        → IntelliJ IDEA • VS Code                     │
-│  BUILD      → Maven                                       │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
+| Área                 | Tecnologias             |
+| -------------------- | ----------------------- |
+| **Backend**          | Java · Spring Boot      |
+| **Database**         | PostgreSQL              |
+| **Frontend**         | HTML · CSS · JavaScript |
+| **Cloud**            | AWS                     |
+| **Containers**       | Docker                  |
+| **Orchestration**    | Kubernetes              |
+| **Version Control**  | Git · GitHub            |
+| **Development**      | IntelliJ IDEA · VS Code |
+| **OS / Environment** | Linux                   |
 
-⸻
+---
 
-> PROJECTS
+# `04 // CURRENT OBJECTIVES`
 
 <div align="center">
+
+```text
+┌─[ DUDU@DEV-LAB ]─[ ~/mission/current ]──────────────────────┐
+│                                                              │
+│ $ whoami                                                     │
+│ Eduardo                                                       │
+│                                                              │
+│ $ cat objectives.txt                                         │
+│                                                              │
+│ [01] ████████████████████░░  Backend Engineering             │
+│ [02] █████████████████░░░░  Spring Boot                     │
+│ [03] ███████████████░░░░░░  AWS & Cloud                      │
+│ [04] ██████████████░░░░░░░  Docker & Kubernetes              │
+│ [05] ████████████░░░░░░░░░  Software Architecture            │
+│ [06] ██████████░░░░░░░░░░░  Full Stack Development           │
+│                                                              │
+│ $ echo "BUILDING THE FUTURE..."                              │
+│ BUILDING THE FUTURE...                                       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# `05 // FEATURED PROJECTS`
+
+<div align="center">
+
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-🛰️ ForestEye
+### 🌳 ForestEye
 
-AI + Space Technology + Environmental Monitoring
+Sistema inteligente voltado ao monitoramento ambiental utilizando dados, tecnologia e inteligência para identificação de áreas críticas.
 
-A technology concept focused on using satellite and thermal data to identify environmental changes and heat sources.
+**Stack**
 
-Stack
-
-Python AI Data Analysis Satellite Data
+`Python` `AI` `Data` `Cloud`
 
 </td>
+
 <td width="50%" valign="top">
 
-🌱 EcoCore
+### 🛰️ Space & Climate Tech
 
-Intelligent Data Center Cooling
+Projeto explorando tecnologia espacial, dados de satélite e análise computacional para identificação de fontes de calor e problemas ambientais.
 
-A concept for improving data-center energy efficiency using intelligent thermal monitoring, automated temperature control and workload distribution.
+**Stack**
 
-Stack
-
-AI IoT Cloud Energy Management
+`Python` `Data Analysis` `Satellite Data`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-📚 JOVI
+### ⚡ AI Energy Management
 
-AI-powered educational assistant
+Conceito de gerenciamento inteligente de energia utilizando monitoramento térmico, automação e distribuição inteligente de carga.
 
-Concept of an intelligent camera capable of capturing classroom content, extracting information and organizing study material automatically.
+**Stack**
 
-Stack
-
-AI OCR Java Python
+`AI` `IoT` `Cloud` `Automation`
 
 </td>
+
 <td width="50%" valign="top">
 
-⚙️ Backend Systems
+### 🚀 Full Stack Laboratory
 
-Scalable APIs & Software Engineering
+Laboratório pessoal para desenvolvimento de aplicações utilizando arquitetura moderna, APIs REST, bancos relacionais, containers e cloud.
 
-Personal projects focused on backend architecture, REST APIs, databases, authentication, containers and cloud deployment.
+**Stack**
 
-Stack
-
-Java Spring Boot PostgreSQL Docker
+`Java` `Spring Boot` `PostgreSQL` `Docker`
 
 </td>
+
 </tr>
 </table>
+
 </div>
 
-⸻
+> 🚧 **More projects are currently being engineered...**
 
-> CURRENT_OBJECTIVES
+---
 
-eduardo@dev-machine:~$ ./mission.sh
-[████████████████████████████████████] 100%
-MISSION STATUS: ACTIVE
-[✓] Master Java
-[✓] Build REST APIs with Spring Boot
-[✓] Improve PostgreSQL & database architecture
-[✓] Learn Docker
-[✓] Learn AWS
-[✓] Learn Kubernetes
-[ ] Build production-grade backend systems
-[ ] Deepen Software Architecture
-[ ] Improve DevOps & CI/CD
-[ ] Explore Artificial Intelligence
-[ ] Become a high-level Backend Engineer
-TARGET:
-Backend Engineer → Cloud Engineer → AI/ML Engineer
-SYSTEM MESSAGE:
-"Learning never stops."
-
-⸻
-
-> GITHUB_ANALYTICS
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00e5ff&text_color=ffffff&langs_count=8"/>
-</div>
-<br>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=050505&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" />
-</div>
-
-⸻
-
-> ACTIVITY_GRAPH
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=050505&color=ffffff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=EDUARDO%20ARRUDA%20%2F%2F%20SYSTEM%20ACTIVITY"/>
-</div>
-
-⸻
-
-> ACHIEVEMENTS
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4"/>
-</div>
-
-⸻
-
-> CONTRIBUTION_MATRIX
+# `06 // GITHUB ANALYTICS`
 
 <div align="center">
 
-🐍 Contribution Snake
+<img src="https://github-readme-stats.vercel.app/api?username=dudu-dev-fullstack&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudu-dev-fullstack&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=dudu-dev-fullstack&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
+
 </div>
 
-Important: Para a Snake Animation funcionar, configure a GitHub Action no repositório SEU_USERNAME/SEU_USERNAME.
+---
 
-⸻
-
-> SOCIAL_NETWORK
+# `07 // CONTRIBUTION MATRIX`
 
 <div align="center">
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050505"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dudu-dev-fullstack&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# `08 // TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dudu-dev-fullstack&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
+
+---
+
+# `09 // CONTRIBUTION SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dudu-dev-fullstack/dudu-dev-fullstack/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
+---
+
+# `10 // SOCIAL NETWORK`
+
+<div align="center">
+
+<a href="https://github.com/dudu-dev-fullstack">
+<img src="https://img.shields.io/badge/GitHub-dudu--dev--fullstack-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
-<a href="https://github.com/SEU_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=050505"/>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=050505"/>
-</a>
+
 </div>
-
-⸻
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0a0f1f,100:050505&height=120&section=footer"/>
-
-SYSTEM STATUS: ONLINE
-
-Eduardo Arruda
-Software Engineering • Backend • Cloud • Future AI Engineer
 
 <br>
-[ CONNECTION ESTABLISHED ]
-[ KNOWLEDGE BASE: EXPANDING ]
-[ NEXT LEVEL: LOADING... ]
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║       "THE FUTURE IS BUILT ONE LINE OF CODE AT A TIME."     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:161b22,100:0d1117&height=120&section=footer&animation=fadeIn"/>
+
+### `SYSTEM // END OF TRANSMISSION`
+
+**JAVA • SPRING BOOT • AWS • DOCKER • KUBERNETES • POSTGRESQL**
+
+`© 2026 DUDU-DEV-FULLSTACK`
+
 </div>
