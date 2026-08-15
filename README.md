@@ -160,17 +160,9 @@ edu@fiap:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `06.` &nbsp;ACHIEVEMENTS.log
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dudu-dev-fullstack/dudu-dev-fullstack/output/trophy.svg" alt="trophy"/>
-
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `07.` &nbsp;CONTRIBUTION_MATRIX.render
+## `06.` &nbsp;CONTRIBUTION_MATRIX.render
 
 <div align="center">
 
@@ -186,7 +178,7 @@ edu@fiap:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## `08.` &nbsp;CONNECT.init()
+## `07.` &nbsp;CONNECT.init()
 
 <div align="center">
 
