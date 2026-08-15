@@ -265,7 +265,7 @@ Laboratório pessoal para desenvolvimento de aplicações utilizando arquitetura
 <img src="https://img.shields.io/badge/GitHub-dudu--dev--fullstack-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
-<a href="www.linkedin.com/in/eduardo-arruda-domingos-39274b300">
+<a href="https://www.linkedin.com/in/eduardo-arruda-domingos-39274b300/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
 
