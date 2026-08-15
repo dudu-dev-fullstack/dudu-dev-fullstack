@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Widgets
  
 on:
   schedule:
@@ -21,6 +21,17 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+ 
+      - name: Generate trophy.svg
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: dudu-dev-fullstack
+          output_path: dist/trophy.svg
+          theme: algolia
+          no-frame: "true"
+          no-bg: "true"
+          column: "7"
+          token: ${{ secrets.GITHUB_TOKEN }}
  
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
