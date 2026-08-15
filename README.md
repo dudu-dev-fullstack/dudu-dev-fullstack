@@ -227,11 +227,11 @@ Laboratório pessoal para desenvolvimento de aplicações utilizando arquitetura
 
 ---
 
-# `07 // CONTRIBUTION MATRIX`
+# `07 // ACTIVITY MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dudu-dev-fullstack&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dudu-dev-fullstack&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" width="100%"/>
 
 </div>
 
@@ -241,7 +241,7 @@ Laboratório pessoal para desenvolvimento de aplicações utilizando arquitetura
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dudu-dev-fullstack&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dudu-dev-fullstack&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%"/>
 
 </div>
 
