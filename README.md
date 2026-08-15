@@ -1,300 +1,163 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-
-<!--                    DUDU // SYSTEM ONLINE                    -->
-
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00f5ff&height=220&section=header&text=DUDU-DEV-FULLSTACK&fontSize=42&fontColor=00F5FF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20FULL%20STACK&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
+<!-- ANIMATED TOP BORDER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=EDUARDO%20ARRUDA&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=35&desc=SYSTEM.INIT()%20%3E%3E%20Software%20Engineer%20//%20Backend%20Java%20Developer&descAlignY=55&descSize=18&descColor=39FF14" width="100%"/>
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+SYSTEM...;%3E+JAVA+%2B+SPRING+BOOT+%7C+BACKEND+ENGINEER;%3E+BUILDING+SCALABLE+SYSTEMS...;%3E+CLOUD+%7C+DOCKER+%7C+KUBERNETES+%7C+AWS;%3E+WELCOME+TO+MY+DIGITAL+LAB." alt="Typing Animation"/>
-
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/dudu-dev-fullstack">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Booting+dudu-dev-fullstack...;%3E+Loading+Java+%2B+Spring+Boot+modules...;%3E+Deploying+with+Docker+%26+Kubernetes...;%3E+System+Online.+Welcome%2C+visitor.ciano" alt="Typing SVG" />
+</a>
+<br><br>
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=dudu-dev-fullstack&label=SCANS%20DETECTED&color=00F5FF&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=black)
+![Focus](https://img.shields.io/badge/FOCUS-BACKEND%20JAVA-FF00E4?style=for-the-badge&logo=coffeescript&logoColor=white)
+ 
+</div>
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=dudu-dev-fullstack&style=for-the-badge&color=00f5ff&label=SYSTEM+VISITS"/>
-
-</div>
-
----
-
-## `01 // SYSTEM STATUS`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                  DUDU.DEV // ONLINE                         │
-├──────────────────────────────────────────────────────────────┤
-│ STATUS        : ONLINE                                       │
-│ ROLE          : SOFTWARE ENGINEER                           │
-│ SPECIALTY     : BACKEND / FULL STACK                        │
-│ PRIMARY       : JAVA + SPRING BOOT                           │
-│ CLOUD         : AWS                                          │
-│ INFRA         : DOCKER + KUBERNETES                          │
-│ DATABASE      : POSTGRESQL                                   │
-│ ENVIRONMENT   : LINUX / GIT / GITHUB                         │
-│ MISSION       : BUILD → SCALE → AUTOMATE → INNOVATE         │
-└──────────────────────────────────────────────────────────────┘
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## `01.` &nbsp;SOBRE_MIM.exe
+ 
+<img align="right" width="320" src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/github.gif" />
+```yaml
+sistema:
+  nome: "Eduardo Arruda Domingos"
+  alias: "Edu"
+  localizacao: "São Paulo, Brasil"
+  formacao: "Engenharia de Software @ FIAP"
+  status_atual: "Semestre 2 | RM 573313"
+  linguagem_principal: "Java"
+  missao: >
+    Construir sistemas backend robustos e escaláveis,
+    conectando lógica sólida a soluções de impacto real —
+    de IA aplicada à educação a monitoramento ambiental via satélite.
+  interesses: ["Backend", "Cloud", "IA aplicada", "Arquitetura de sistemas"]
+  modo_debug: "Socrático — prefiro entender o 'porquê' antes do 'como'"
 ```
-
-# `> Sobre Mim`
-
-Olá! Eu sou **Eduardo**, desenvolvedor focado em construir aplicações modernas, escaláveis e bem estruturadas.
-
-Minha principal stack está concentrada no ecossistema **Java + Spring Boot**, com experiência e estudos voltados para bancos de dados, containers, cloud computing e desenvolvimento Full Stack.
-
-Gosto de transformar problemas reais em soluções através de código, arquitetura de software e automação.
-
-```java
-public class Developer {
-
-    String name = "Eduardo";
-    String username = "dudu-dev-fullstack";
-
-    String[] focus = {
-        "Backend Engineering",
-        "Full Stack Development",
-        "Cloud Computing",
-        "Software Architecture"
-    };
-
-    String[] mindset = {
-        "Learn",
-        "Build",
-        "Improve",
-        "Scale"
-    };
-}
-```
-
----
-
-# `02 // TECH STACK`
-
+ 
+<br clear="right"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## `02.` &nbsp;TECH_STACK.config
+ 
 <div align="center">
-
-### `BACKEND`
-
-<img src="https://skillicons.dev/icons?i=java,spring" />
-
-### `DATABASE`
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-### `CLOUD & DEVOPS`
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
-
-### `FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-### `TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" />
-
+### ⚙️ Core Languages
+<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
+### 🚀 Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" />
+### 🛠️ Ferramentas Utilizadas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma&theme=dark" />
 </div>
-
----
-
-# `03 // CORE TECHNOLOGIES`
-
-| Área                 | Tecnologias             |
-| -------------------- | ----------------------- |
-| **Backend**          | Java · Spring Boot      |
-| **Database**         | PostgreSQL              |
-| **Frontend**         | HTML · CSS · JavaScript |
-| **Cloud**            | AWS                     |
-| **Containers**       | Docker                  |
-| **Orchestration**    | Kubernetes              |
-| **Version Control**  | Git · GitHub            |
-| **Development**      | IntelliJ IDEA · VS Code |
-| **OS / Environment** | Linux                   |
-
----
-
-# `04 // CURRENT OBJECTIVES`
-
+<br>
 <div align="center">
-
-```text
-┌─[ DUDU@DEV-LAB ]─[ ~/mission/current ]──────────────────────┐
-│                                                              │
-│ $ whoami                                                     │
-│ Eduardo                                                       │
-│                                                              │
-│ $ cat objectives.txt                                         │
-│                                                              │
-│ [01] ████████████████████░░  Backend Engineering             │
-│ [02] █████████████████░░░░  Spring Boot                     │
-│ [03] ███████████████░░░░░░  AWS & Cloud                      │
-│ [04] ██████████████░░░░░░░  Docker & Kubernetes              │
-│ [05] ████████████░░░░░░░░░  Software Architecture            │
-│ [06] ██████████░░░░░░░░░░░  Full Stack Development           │
-│                                                              │
-│ $ echo "BUILDING THE FUTURE..."                              │
-│ BUILDING THE FUTURE...                                       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
+| `Camada`         | `Tecnologias`                                                                 |
+|------------------|-------------------------------------------------------------------------------|
+| **Linguagens**   | ![Java](https://img.shields.io/badge/-Java-00F5FF?style=flat-square&logo=openjdk&logoColor=black) ![JS](https://img.shields.io/badge/-JavaScript-00F5FF?style=flat-square&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML5-00F5FF?style=flat-square&logo=html5&logoColor=black) ![CSS](https://img.shields.io/badge/-CSS3-00F5FF?style=flat-square&logo=css3&logoColor=black) |
+| **Backend**      | ![Spring](https://img.shields.io/badge/-Spring%20Boot-39FF14?style=flat-square&logo=springboot&logoColor=black) |
+| **Dados**        | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FF00E4?style=flat-square&logo=postgresql&logoColor=white) |
+| **Infra/Cloud**  | ![Docker](https://img.shields.io/badge/-Docker-0aa8ff?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Versionamento**| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+ 
 </div>
-
----
-
-# `05 // FEATURED PROJECTS`
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## `03.` &nbsp;PROJETOS_EM_DESTAQUE.db
+ 
 <div align="center">
-
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-### 🌳 ForestEye
-
-Sistema inteligente voltado ao monitoramento ambiental utilizando dados, tecnologia e inteligência para identificação de áreas críticas.
-
-**Stack**
-
-`Python` `AI` `Data` `Cloud`
-
+<td width="50%">
+### 🧠 JOVI Lens
+> Câmera inteligente com IA para apoio educacional
+ 
+`Java` `IA` `Visão Computacional`
+ 
+Sistema que utiliza inteligência artificial embarcada para auxiliar estudantes através de reconhecimento visual em tempo real, unindo hardware e software em uma solução educacional acessível.
+ 
+<a href="https://github.com/dudu-dev-fullstack"><img src="https://img.shields.io/badge/EXPLORAR-00F5FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+ 
 </td>
-
-<td width="50%" valign="top">
-
-### 🛰️ Space & Climate Tech
-
-Projeto explorando tecnologia espacial, dados de satélite e análise computacional para identificação de fontes de calor e problemas ambientais.
-
-**Stack**
-
-`Python` `Data Analysis` `Satellite Data`
-
+<td width="50%">
+### 🛰️ ForestEye
+> Prevenção de incêndios florestais via satélite + IA
+ 
+`Java` `IA` `Monitoramento`
+ 
+Plataforma que cruza dados de satélite com modelos de inteligência artificial para detectar riscos de incêndio florestal antecipadamente, gerando alertas para resposta rápida.
+ 
+<a href="https://github.com/dudu-dev-fullstack"><img src="https://img.shields.io/badge/EXPLORAR-39FF14?style=for-the-badge&logo=github&logoColor=black"/></a>
+ 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ AI Energy Management
-
-Conceito de gerenciamento inteligente de energia utilizando monitoramento térmico, automação e distribuição inteligente de carga.
-
-**Stack**
-
-`AI` `IoT` `Cloud` `Automation`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Full Stack Laboratory
-
-Laboratório pessoal para desenvolvimento de aplicações utilizando arquitetura moderna, APIs REST, bancos relacionais, containers e cloud.
-
-**Stack**
-
-`Java` `Spring Boot` `PostgreSQL` `Docker`
-
-</td>
-
 </tr>
 </table>
-
 </div>
-
-> 🚧 **More projects are currently being engineered...**
-
----
-
-# `06 // GITHUB ANALYTICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dudu-dev-fullstack&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudu-dev-fullstack&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=8" height="180"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=dudu-dev-fullstack&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%"/>
-
-</div>
-
----
-
-# `07 // ACTIVITY MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dudu-dev-fullstack&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" width="100%"/>
-
-</div>
-
----
-
-# `08 // TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dudu-dev-fullstack&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%"/>
-
-</div>
-
----
-
-# `09 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dudu-dev-fullstack/dudu-dev-fullstack/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</div>
-
----
-
-# `10 // SOCIAL NETWORK`
-
-<div align="center">
-
-<a href="https://github.com/dudu-dev-fullstack">
-<img src="https://img.shields.io/badge/GitHub-dudu--dev--fullstack-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/eduardo-arruda-domingos-39274b300/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║       "THE FUTURE IS BUILT ONE LINE OF CODE AT A TIME."     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## `04.` &nbsp;OBJETIVOS_ATUAIS.sh
+ 
+```bash
+edu@fiap:~$ cat objetivos_2026.txt
+ 
+[✔] Dominar fundamentos de Java + Programação Orientada a Objetos
+[✔] Construir APIs REST com Spring Boot
+[►] Aprofundar em arquitetura de sistemas escaláveis (Docker + Kubernetes)
+[►] Explorar AWS para deploy de aplicações backend
+[ ] Conquistar primeira vaga como Estagiário Backend Java
+[ ] Contribuir para projetos open source
+[ ] Expandir portfólio com projetos full stack
+ 
+edu@fiap:~$ echo "Buscando oportunidade de estágio em Backend Java 🚀"
+> Buscando oportunidade de estágio em Backend Java 🚀
+ 
+edu@fiap:~$ _
 ```
-
-</div>
-
----
-
+ 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## `05.` &nbsp;SYSTEM_ANALYTICS.exe
+ 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:161b22,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-
-### `SYSTEM // END OF TRANSMISSION`
-
-**JAVA • SPRING BOOT • AWS • DOCKER • KUBERNETES • POSTGRESQL**
-
-`© 2026 DUDU-DEV-FULLSTACK`
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudu-dev-fullstack&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&title_color=00F5FF&icon_color=39FF14&text_color=c9d1d9&ring_color=FF00E4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudu-dev-fullstack&layout=compact&theme=react&bg_color=0d1117&hide_border=true&title_color=00F5FF&text_color=c9d1d9&langs_count=8"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dudu-dev-fullstack&theme=react&background=0d1117&border=0d1117&ring=00F5FF&fire=FF00E4&currStreakLabel=00F5FF&sideLabels=39FF14&dates=c9d1d9"/>
+<br><br>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dudu-dev-fullstack&theme=react-dark&bg_color=0d1117&color=00F5FF&line=39FF14&point=FF00E4&hide_border=true&area=true" width="100%"/>
+</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## `06.` &nbsp;ACHIEVEMENTS.log
+ 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dudu-dev-fullstack&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7"/>
+</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## `07.` &nbsp;CONTRIBUTION_MATRIX.render
+ 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudu-dev-fullstack/dudu-dev-fullstack/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dudu-dev-fullstack/dudu-dev-fullstack/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/dudu-dev-fullstack/dudu-dev-fullstack/output/github-contribution-grid-snake-dark.svg">
+</picture>
+<sub>⚡ Animação gerada automaticamente via GitHub Actions — veja a seção de instalação abaixo</sub>
+ 
+</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## `08.` &nbsp;CONNECT.init()
+ 
+<div align="center">
+<a href="https://linkedin.com/in/eduardo-arruda-domingos-39274b300" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+</a>
+<a href="https://github.com/dudu-dev-fullstack" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<div align="center">
+### `>> SYSTEM.LOG` &nbsp;`"Todo código é uma promessa de que algo, algum dia, vai funcionar."`
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<sub>© 2026 Eduardo Arruda Domingos — Compilado com ☕ e Java em São Paulo, Brasil</sub>
+ 
 </div>
